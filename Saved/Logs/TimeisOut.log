@@ -4214,3 +4214,6 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2024.05.17-10.38.26:668][943]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.05.17-10.38.26:668][943]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.05.17-10.38.26:668][943]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.05.17-10.38.27:892][943]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.17-10.38.27:940][943]LogExit: Exiting.
+[2024.05.17-10.38.27:987][943]Log file closed, 05/17/24 12:38:27
